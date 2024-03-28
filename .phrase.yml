@@ -18,3 +18,7 @@ phrase:
       - file: ./public/locales/nl.json
         params:
           file_format: simple_json
+
+       - file: ./public/locales/en.json
+        params:
+          file_format: simple_json
