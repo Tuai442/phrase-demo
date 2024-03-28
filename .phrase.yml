@@ -15,6 +15,6 @@ phrase:
 
   pull:
     targets:
-      - file: ./public/locales/<locale_name>.json
+      - file: ./public/locales/nl.json
         params:
           file_format: simple_json
