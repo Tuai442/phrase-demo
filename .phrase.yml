@@ -3,7 +3,7 @@ phrase:
 
   push:
     sources:
-      - file: ./public/locales/<locale_name>.json
+      - file: ./public/locales/nl.json
         params:
           file_format: simple_json
           locale_id: nl
@@ -12,6 +12,6 @@ phrase:
 
   pull:
     targets:
-      - file: ./public/locales/<locale_name>.json
+      - file: ./public/locales/nl.json
         params:
           file_format: simple_json
