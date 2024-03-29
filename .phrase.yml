@@ -15,3 +15,4 @@ phrase:
       - file: ./public/locales/nl.json
         params:
           file_format: simple_json
+          locale_id: nl
